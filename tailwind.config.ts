@@ -52,6 +52,9 @@ const config: Config = {
         'max-height': 'max-height',
         spacing: 'margin, padding',
       },
+      clipPath: {
+        triangle: 'polygon(0% 0%, 100% 0%, 0% 100%)',
+      },
     },
   },
   plugins: [],
